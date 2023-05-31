@@ -12,3 +12,5 @@ Un script en python para enviar mensajes autmatizados de una lista.
 2. Descomprime el repositorio.
 3. Asegúrate de tener instalado la libreria pyautogui y time.
 4. Ejecuta `python whatsapp-spam.py` en una terminal que se ubique en el repositorio.
+
+## Te agradeceria que si te gusto dejaras un estrella en el proyecto :)
